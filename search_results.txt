@@ -1,0 +1,2716 @@
+<h1 class="b_logo" title="Επιστροφή στην αναζήτηση Bing" aria-label="Μετάβαση στην αρχική σελίδα του Bing"></h1>
+<div class="sw_close"></div>
+<div id="sb_go_par" data-sbtip="Αναζήτηση στο Web">
+ <div id="b_icon_spyglass" class="sb_icon"></div>
+ <input type="submit" class="b_searchboxSubmit" id="sb_form_go" tabindex="0" name="go" value="Αναζήτηση">
+</div>
+<div> 
+ <span id="B6540_1_btn" class="cbtn" data-wire="I;button_init;; |" data-appns="video" data-k="5078.1"><input type="submit" name="submit" id="id_a" value="Είσοδος" aria-label=""></span>
+</div><span id="id_n" style="display:none" aria-hidden="true"></span><img id="id_p" class="id_avatar sw_spd" style="display:none" aria-hidden="true" alt="Εικόνα προφίλ" aria-label="Εικόνα προφίλ" onerror="FallBackToDefaultProfilePic(this)" data-src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7" data-alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII=">
+
+English
+Όλα
+Εικόνες
+Βίντεο
+Ειδήσεις
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=The+Twelve+Days+of+Christmas&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="The Twelve Days of Christmas">
+<div class="it">
+ The Twelve Days 
+ <br>of Christmas
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=White+Christmas&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="White Christmas">
+<div class="it">
+ White 
+ <br>Christmas
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Silent+Night&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Silent Night">
+<div class="it">
+ Silent 
+ <br>Night
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Mele+Kalikimaka&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Mele Kalikimaka">
+<div class="it">
+ Mele 
+ <br>Kalikimaka
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=O+Holy+Night&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="O Holy Night">
+<div class="it">
+ O Holy 
+ <br>Night
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Baby%2c+It%27s+Cold+Outside&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Baby, It's Cold Outside">
+<div class="it">
+ Baby, It's Cold 
+ <br>Outside
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Jingle+Bells&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Jingle Bells">
+<div class="it">
+ Jingle 
+ <br>Bells
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Frosty+the+Snowman&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Frosty the Snowman">
+<div class="it">
+ Frosty the 
+ <br>Snowman
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=You%27re+a+Mean+One%2c+Mr.+Grinch&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="You're a Mean One, Mr. Grinch">
+<div class="it">
+ You're a Mean One, 
+ <br>Mr. Grinch
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=The+Little+Drummer+Boy&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="The Little Drummer Boy">
+<div class="it">
+ The Little Drummer 
+ <br>Boy
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Feliz+Navidad&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Feliz Navidad">
+<div class="it">
+ Feliz 
+ <br>Navidad
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Joy+to+the+World&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Joy to the World">
+<div class="it">
+ Joy to the 
+ <br>World
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=O+Tannenbaum&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="O Tannenbaum">
+<div class="it">
+ O 
+ <br>Tannenbaum
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=All+I+want+for+Christmas+Is+You&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="All I want for Christmas Is You">
+<div class="it">
+ All I want for Christmas 
+ <br>Is You
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=I+Want+a+Hippopotamus+for+Christmas&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="I Want a Hippopotamus for Christmas">
+<div class="it">
+ I Want a Hippopotamus 
+ <br>for Christmas
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=The+Christmas+Song&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="The Christmas Song">
+<div class="it">
+ The Christmas 
+ <br>Song
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Santa+Baby&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Santa Baby">
+<div class="it">
+ Santa 
+ <br>Baby
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Santa+Claus+is+Coming+to+Town&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Santa Claus is Coming to Town">
+<div class="it">
+ Santa Claus is Coming 
+ <br>to Town
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Deck+the+Halls&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Deck the Halls">
+<div class="it">
+ Deck the 
+ <br>Halls
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Grandma+Got+Run+Over+by+a+Reindeer&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Grandma Got Run Over by a Reindeer">
+<div class="it">
+ Grandma Got Run Over 
+ <br>by a Reindeer
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=I+Heard+the+Bells+on+Christmas+Day&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="I Heard the Bells on Christmas Day">
+<div class="it">
+ I Heard the Bells on 
+ <br>Christmas Day
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Winter+Wonderland&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Winter Wonderland">
+<div class="it">
+ Winter 
+ <br>Wonderland
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=My+Favorite+Things&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="My Favorite Things">
+<div class="it">
+ My Favorite 
+ <br>Things
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Jingle+Bell+Rock&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Jingle Bell Rock">
+<div class="it">
+ Jingle Bell 
+ <br>Rock
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Hark!+The+Herald+Angels+Sing&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Hark! The Herald Angels Sing">
+<div class="it">
+ Hark! The Herald 
+ <br>Angels Sing
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Sleigh+Ride&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Sleigh Ride">
+<div class="it">
+ Sleigh 
+ <br>Ride
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Do+They+Know+It%27s+Christmas%3f&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Do They Know It's Christmas?">
+<div class="it">
+ Do They Know It's 
+ <br>Christmas?
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Let+It+Snow!+Let+It+Snow!+Let+It+Snow!&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Let It Snow! Let It Snow! Let It Snow!">
+<div class="it">
+ Let It Snow! Let It Snow! 
+ <br>Let It Snow!
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Same+Old+Lang+Syne&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Same Old Lang Syne">
+<div class="it">
+ Same Old Lang 
+ <br>Syne
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=It+Must+Have+Been+Love&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="It Must Have Been Love">
+<div class="it">
+ It Must Have 
+ <br>Been Love
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Christmas+Songs+List&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Songs List">
+<div class="it">
+ Christmas 
+ <br>Songs List
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Top+100+Christmas+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Top 100 Christmas Songs">
+<div class="it">
+ Top 100 Christmas 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Traditional+Christmas+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Traditional Christmas Songs">
+<div class="it">
+ Traditional Christmas 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Christmas+Songs+2019&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Songs 2019">
+<div class="it">
+ Christmas Songs 
+ <br>2019
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Merry+Christmas+Song&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Merry Christmas Song">
+<div class="it">
+ Merry Christmas 
+ <br>Song
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Christmas+Songs+Mix&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Songs Mix">
+<div class="it">
+ Christmas 
+ <br>Songs Mix
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Popular+Christmas+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Popular Christmas Songs">
+<div class="it">
+ Popular Christmas 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Christmas+Songs+Lyrics&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Songs Lyrics">
+<div class="it">
+ Christmas Songs 
+ <br>Lyrics
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Christmas+Songs+for+Children&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Songs for Children">
+<div class="it">
+ Christmas Songs 
+ <br>for Children
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Best+Pop+Christmas+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Best Pop Christmas Songs">
+<div class="it">
+ Best Pop Christmas 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Christmas+Hit+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Hit Songs">
+<div class="it">
+ Christmas 
+ <br>Hit Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Classic+Christmas+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Classic Christmas Songs">
+<div class="it">
+ Classic Christmas 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Christmas+Pop+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Pop Songs">
+<div class="it">
+ Christmas Pop 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Christmas+Carols+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Carols Songs">
+<div class="it">
+ Christmas Carols 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Christmas+Songs+2020&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Songs 2020">
+<div class="it">
+ Christmas Songs 
+ <br>2020
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Christmas+Songs+for+Kids&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Songs for Kids">
+<div class="it">
+ Christmas Songs 
+ <br>for Kids
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Fun+Christmas+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Fun Christmas Songs">
+<div class="it">
+ Fun Christmas 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Christmas+Songs+Oldies&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Songs Oldies">
+<div class="it">
+ Christmas Songs 
+ <br>Oldies
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Most+Popular+Christmas+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Most Popular Christmas Songs">
+<div class="it">
+ Most Popular Christmas 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Mariah+Carey+Christmas+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Mariah Carey Christmas Songs">
+<div class="it">
+ Mariah Carey Christmas 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Christmas+Music&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Music">
+<div class="it">
+ Christmas 
+ <br>Music
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Christmas+Is+Coming+the+Goose+Is+Getting+Fat&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Is Coming the Goose Is Getting Fat">
+<div class="it">
+ Christmas Is Coming the 
+ <br>Goose Is Getting Fat
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Christmas+Carols&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Carols">
+<div class="it">
+ Christmas 
+ <br>Carols
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Christmas+Lyrics&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Lyrics">
+<div class="it">
+ Christmas 
+ <br>Lyrics
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Christmas+Shoes&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Shoes">
+<div class="it">
+ Christmas 
+ <br>Shoes
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Christmas+Cartoons&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Cartoons">
+<div class="it">
+ Christmas 
+ <br>Cartoons
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Christmas+Carolers&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Carolers">
+<div class="it">
+ Christmas 
+ <br>Carolers
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Christmas+Movies&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Movies">
+<div class="it">
+ Christmas 
+ <br>Movies
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Christmas+Guitar&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Guitar">
+<div class="it">
+ Christmas 
+ <br>Guitar
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Christmas+TV&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas TV">
+<div class="it">
+ Christmas 
+ <br>TV
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Christmas+Games&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Games">
+<div class="it">
+ Christmas 
+ <br>Games
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Christmas+Sounds&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Sounds">
+<div class="it">
+ Christmas 
+ <br>Sounds
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Christmas+Singers&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Singers">
+<div class="it">
+ Christmas 
+ <br>Singers
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Christmas+Singing&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Singing">
+<div class="it">
+ Christmas 
+ <br>Singing
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Christmas+Away+in+a+Manger&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Away in a Manger">
+<div class="it">
+ Christmas Away 
+ <br>in a Manger
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Christmas+Cake&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Cake">
+<div class="it">
+ Christmas 
+ <br>Cake
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Christmas+Nails&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Nails">
+<div class="it">
+ Christmas 
+ <br>Nails
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Christmas+Tunes&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Tunes">
+<div class="it">
+ Christmas 
+ <br>Tunes
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Christmas+Day&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas Day">
+<div class="it">
+ Christmas 
+ <br>Day
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Christmas+House&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christmas House">
+<div class="it">
+ Christmas 
+ <br>House
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Funny+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Funny Songs">
+<div class="it">
+ Funny 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Holiday+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Holiday Songs">
+<div class="it">
+ Holiday 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Love+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Love Songs">
+<div class="it">
+ Love 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Childrens+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Childrens Songs">
+<div class="it">
+ Childrens 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Let+It+Snow+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Let It Snow Songs">
+<div class="it">
+ Let It Snow 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Santa+Claus+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Santa Claus Songs">
+<div class="it">
+ Santa Claus 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Summer+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Summer Songs">
+<div class="it">
+ Summer 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Christian+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Christian Songs">
+<div class="it">
+ Christian 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=2015+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="2015 Songs">
+<div class="it">
+ 2015 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Parties+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Parties Songs">
+<div class="it">
+ Parties 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Train%27s+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Train's Songs">
+<div class="it">
+ Train's 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=Alternative+Rap+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Alternative Rap Songs">
+<div class="it">
+ Alternative 
+ <br>Rap Songs
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Letter+Learning+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Letter Learning Songs">
+<div class="it">
+ Letter Learning 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=BGMC+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="BGMC Songs">
+<div class="it">
+ BGMC 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse4.mm.bing.net/th?q=Overcoming+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Overcoming Songs">
+<div class="it">
+ Overcoming 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Promotion+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Promotion Songs">
+<div class="it">
+ Promotion 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Chrostmas+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Chrostmas Songs">
+<div class="it">
+ Chrostmas 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse3.mm.bing.net/th?q=Crib+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Crib Songs">
+<div class="it">
+ Crib 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse1.mm.bing.net/th?q=V+Day+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="V Day Songs">
+<div class="it">
+ V Day 
+ <br>Songs
+</div>
+<img height="42" width="42" src2="https://tse2.mm.bing.net/th?q=Award+Winning+Songs&amp;w=42&amp;h=42&amp;c=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1" data-priority="2" alt="Award Winning Songs">
+<div class="it">
+ Award Winning 
+ <br>Songs
+</div>
+<span class="ftrP12">Όλα</span>
+<span class="ftrP12">Μικρής διάρκειας (λιγότερο από 5 λεπτά)</span>
+<span class="ftrP12">Μεσαίας διάρκειας (5-20 λεπτά)</span>
+<span class="ftrP12">Μεγάλης διάρκειας (περισσότερο από 20 λεπτά)</span>
+<span class="ftrP12">Όλα</span>
+<span class="ftrP12">Προηγούμενες 24 ώρες</span>
+<span class="ftrP12">Προηγούμενη εβδομάδα</span>
+<span class="ftrP12">Προηγούμενος μήνας</span>
+<span class="ftrP12">Προηγούμενο έτος</span>
+<span class="ftrP12">Όλα</span>
+<span class="ftrP12">Χαμηλότερη ανάλυση από 360p</span>
+<span class="ftrP12">360p ή υψηλότερη</span>
+<span class="ftrP12">480p ή υψηλότερη</span>
+<span class="ftrP12">720p ή υψηλότερη</span>
+<span class="ftrP12">1080p ή υψηλότερη</span>
+<span class="ftrP12">Όλα</span>
+<div class="rms_img rms_rmsanswersMultimediaMMvsi-youtube_com rms_rmsanswersMultimediaMMVsi-Bundle_Prim"></div><span class="ftrP12">YouTube</span>
+<div class="rms_img rms_rmsanswersMultimediaMMvsi-myspace_com rms_rmsanswersMultimediaMMVsi-Bundle_Prim"></div><span class="ftrP12">MySpace</span>
+<div class="rms_img rms_rmsanswersMultimediaMMvsi-dailymotion_com rms_rmsanswersMultimediaMMVsi-Bundle_Prim"></div><span class="ftrP12">Dailymotion</span>
+<div class="rms_img rms_rmsanswersMultimediaMMvsi-metacafe_com rms_rmsanswersMultimediaMMVsi-Bundle_Prim"></div><span class="ftrP12">Metacafe</span>
+<span class="ftrP12">Όλα</span>
+<span class="ftrP12">Δωρεάν</span>
+<span class="ftrP12">Επί πληρωμή</span>
+Απαλοιφή φίλτρων
+Αυστηρή
+Ανενεργή
+<span class="carouselChevron carouselChevLeftSvg "></span>
+Christmas songs
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <img height="120" width="120" src="https://tse3.mm.bing.net/th?q=The+Twelve+Days+of+Christmas&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate" alt="The Twelve Days of Christmas" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <span title="The Twelve Days of Christmas"><strong>The Twelve Days of Chri</strong>…</span>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <img height="120" width="120" src="https://tse1.mm.bing.net/th?q=White+Christmas+Song&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate" alt="White Christmas" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>White Christmas</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <img height="120" width="120" src="https://tse3.mm.bing.net/th?q=Silent+Night+Song&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate" alt="Silent Night" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Silent Night</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <img height="120" width="120" src="https://tse1.mm.bing.net/th?q=Mele+Kalikimaka&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate" alt="Mele Kalikimaka" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Mele Kalikimaka</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <img height="120" width="120" src="https://tse4.mm.bing.net/th?q=O+Holy+Night&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate" alt="O Holy Night" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>O Holy Night</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <img height="120" width="120" src="https://tse3.mm.bing.net/th?q=baby+its+cold+outside+song&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate" alt="Baby, It's Cold Outside" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Baby, It's Cold Outside</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <img height="120" width="120" src="https://tse4.mm.bing.net/th?q=Jingle+Bells&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate" alt="Jingle Bells" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Jingle Bells</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Frosty the Snowman" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=Frosty+the+Snowman&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Frosty the Snowman</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="You're a Mean One, Mr. Grinch" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=You%27re+a+Mean+One%2c+Mr.+Grinch&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <span title="You're a Mean One, Mr. Grinch"><strong>You're a Mean One, Mr. Grin</strong>…</span>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="The Little Drummer Boy" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=The+Little+Drummer+Boy&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>The Little Drummer Boy</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Feliz Navidad" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=Feliz+Navidad&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Feliz Navidad</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Joy to the World" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=Joy+to+the+World&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Joy to the World</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="O Tannenbaum" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=O+Tannenbaum&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>O Tannenbaum</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="All I want for Christmas Is You" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=All+I+want+for+Christmas+Is+You&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <span title="All I want for Christmas Is You"><strong>All I want for Christmas Is</strong> …</span>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="I Want a Hippopotamus for Christmas" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=I+Want+a+Hippopotamus+for+Christmas&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <span title="I Want a Hippopotamus for Christmas"><strong>I Want a Hippopotam</strong>…</span>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="The Christmas Song" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=The+Christmas+Song&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>The Christmas Song</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Santa Baby" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?q=santa+baby+song+eartha&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Santa Baby</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Santa Claus is Coming to Town" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?q=Santa+Claus+is+Coming+to+Town&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <span title="Santa Claus is Coming to Town"><strong>Santa Claus is Coming to T</strong>…</span>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Deck the Halls" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Deck+the+Halls&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Deck the Halls</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Grandma Got Run Over by a Reindeer" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?q=Grandma+Got+Run+Over+by+a+Reindeer&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <span title="Grandma Got Run Over by a Reindeer"><strong>Grandma Got Run Over by</strong> …</span>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="I Heard the Bells on Christmas Day" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?q=I+Heard+the+Bells+on+Christmas+Day&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <span title="I Heard the Bells on Christmas Day"><strong>I Heard the Bells on Chri</strong>…</span>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Winter Wonderland" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=Winter+Wonderland&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Winter Wonderland</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="My Favorite Things" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=My+Favorite+Things&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>My Favorite Things</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Jingle Bell Rock" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?q=Jingle+Bell+Rock&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Jingle Bell Rock</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Hark! The Herald Angels Sing" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=Hark!+The+Herald+Angels+Sing&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <span title="Hark! The Herald Angels Sing"><strong>Hark! The Herald Angel</strong>…</span>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Sleigh Ride" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=Sleigh+Ride&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Sleigh Ride</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Do They Know It's Christmas?" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=Do+They+Know+It%27s+Christmas%3f&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Do They Know It's Christmas?</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Let It Snow! Let It Snow! Let It Snow!" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=Let+It+Snow!+Let+It+Snow!+Let+It+Snow!&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <span title="Let It Snow! Let It Snow! Let It Snow!"><strong>Let It Snow! Let It Snow! </strong>…</span>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="Same Old Lang Syne" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Same+Old+Lang+Syne&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Same Old Lang Syne</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:120px;height:120px;">
+  <div class="rms_iac" style="height:120px;line-height:120px;width:120px;" data-height="120" data-width="120" data-alt="It Must Have Been Love" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=It+Must+Have+Been+Love+song&amp;w=120&amp;h=120&amp;c=7&amp;pid=1.7&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>It Must Have Been Love</strong>
+ </div>
+</div>
+<span class="carouselChevron carouselChevRightSvg "></span>
+
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=1LfuBZqXa-4">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Michael Bublé - The Christmas Sweater (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.j9GGMeto567_kZba2TPFLQEsDh&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:43
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_3" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Michael Bublé - The Christmas Sweater (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.j9GGMeto567_kZba2TPFLQEsDh&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Michael Bublé - The Christmas Sweater (Official Music Video)">
+    <strong>Michael Bublé - The Christmas Sweater (Official Music Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">3.6 εκατ. προβολές</span>
+      <span class="meta_pd_content">1 μήνα πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Michael Bublé</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:43&quot;,&quot;md5&quot;:&quot;8007a7ef5603b9f1af47761e942f2e28&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=3E67F3AF16B8CFC4AEA03E67F3AF16B8CFC4AEA0&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=1LfuBZqXa-4&quot;,&quot;thid&quot;:&quot;OVP.j9GGMeto567_kZba2TPFLQEsDh&quot;,&quot;mid&quot;:&quot;3E67F3AF16B8CFC4AEA03E67F3AF16B8CFC4AEA0&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Michael Bublé - The Christmas Sweater (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=1LfuBZqXa-4&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=CmKcD-kjE78">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Amy Grant - The Christmas Song (Lyric Video)" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?id=OVP.Hve3rq6bnq4-b0mKdnUxnwHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:47
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_5" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Amy Grant - The Christmas Song (Lyric Video)" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?id=OVP.Hve3rq6bnq4-b0mKdnUxnwHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Amy Grant - The Christmas Song (Lyric Video)">
+    <strong>Amy Grant - The Christmas Song (Lyric Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">29 χιλ. προβολές</span>
+      <span class="meta_pd_content">1 εβδομάδα πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">AmyGrantVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMB.PDWHwiEJ_IM_Tw_1639995578&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMA.PDWHwiEJ_IM_Tw_1639995578&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,10.208,17.958,27.958&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:47&quot;,&quot;md5&quot;:&quot;c83167ae9d2b44987e434c9eab9b4e33&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=4F3F83FC0921C287353C4F3F83FC0921C287353C&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=CmKcD-kjE78&quot;,&quot;thid&quot;:&quot;OVP.Hve3rq6bnq4-b0mKdnUxnwHgFo&quot;,&quot;mid&quot;:&quot;4F3F83FC0921C287353C4F3F83FC0921C287353C&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Amy Grant - The Christmas Song (Lyric Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=CmKcD-kjE78&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=NrGGIoDL6U4">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Mariah Carey - All I Want for Christmas Is You (Official Lyric Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.WIh11HA9wswSEbjdUGwJYQHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      4:01
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_7" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Mariah Carey - All I Want for Christmas Is You (Official Lyric Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.WIh11HA9wswSEbjdUGwJYQHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Mariah Carey - All I Want for Christmas Is You (Official Lyric Video)">
+    <strong>Mariah Carey - All I Want for Christmas Is You (Official Lyric Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">729 χιλ. προβολές</span>
+      <span class="meta_pd_content">1 εβδομάδα πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">MariahCareyVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMB.xJfawQob3QymAQ_1640044114&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMA.xJfawQob3QymAQ_1640044114&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,6.375,13.625,21.583&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;04:01&quot;,&quot;md5&quot;:&quot;a50c31520f9e6f0e922c82b992e22931&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=01A60CDD1B0AC1DA97C401A60CDD1B0AC1DA97C4&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=NrGGIoDL6U4&quot;,&quot;thid&quot;:&quot;OVP.WIh11HA9wswSEbjdUGwJYQHgFo&quot;,&quot;mid&quot;:&quot;01A60CDD1B0AC1DA97C401A60CDD1B0AC1DA97C4&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Mariah Carey - All I Want for Christmas Is You (Official Lyric Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=NrGGIoDL6U4&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=Q_yuO8UNGmY">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Ed Sheeran &amp; Elton John - Merry Christmas [Official Video]" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?id=OVP.lrNJJrKsmnXjD1OPrt26awHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:30
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_9" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Ed Sheeran &amp; Elton John - Merry Christmas [Official Video]" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?id=OVP.lrNJJrKsmnXjD1OPrt26awHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Ed Sheeran &amp; Elton John - Merry Christmas [Official Video]">
+    <strong>Ed Sheeran &amp; Elton John - Merry Christmas [Official Video]</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">36 εκατ. προβολές</span>
+      <span class="meta_pd_content">3 εβδομάδες πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Ed Sheeran</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:30&quot;,&quot;md5&quot;:&quot;ee7a9619b5e344c967a07b033ad0dba1&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=FE552E1CB7CCC1F20592FE552E1CB7CCC1F20592&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=Q_yuO8UNGmY&quot;,&quot;thid&quot;:&quot;OVP.lrNJJrKsmnXjD1OPrt26awHgFo&quot;,&quot;mid&quot;:&quot;FE552E1CB7CCC1F20592FE552E1CB7CCC1F20592&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Ed Sheeran &amp; Elton John - Merry Christmas [Official Video]&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=Q_yuO8UNGmY&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=0bhsXykXxfg">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Michael Bublé' - It's Beginning to Look a Lot Like Christmas (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?id=OVP.Z4JTTOcr39toXqoEa1JiUAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:28
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_11" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Michael Bublé' - It's Beginning to Look a Lot Like Christmas (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?id=OVP.Z4JTTOcr39toXqoEa1JiUAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Michael Bublé' - It's Beginning to Look a Lot Like Christmas (Official Music Video)">
+    <span title="Michael Bublé' - It's Beginning to Look a Lot Like Christmas (Official Music Video)"><strong>Michael Bublé' - It's Beginning to Look a Lot Like Christmas (Official Music Vid</strong>…</span>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">12 εκατ. προβολές</span>
+      <span class="meta_pd_content">1 μήνα πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Michael Bublé</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMB.FVuhmi-hgZvn6Q_1637414008&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMA.FVuhmi-hgZvn6Q_1637414008&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,9.775,18.819,25.793&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:28&quot;,&quot;md5&quot;:&quot;69c2b8e59f730d0998bbe6fc19d4037e&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=E9E79B81A12F9AA15B15E9E79B81A12F9AA15B15&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=0bhsXykXxfg&quot;,&quot;thid&quot;:&quot;OVP.Z4JTTOcr39toXqoEa1JiUAHgFo&quot;,&quot;mid&quot;:&quot;E9E79B81A12F9AA15B15E9E79B81A12F9AA15B15&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Michael Bublé' - It's Beginning to Look a Lot Like Christmas (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=0bhsXykXxfg&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=_WxUaTLtnEI">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Shakin' Stevens - Merry Christmas Everyone (Official Lyric Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.A6rnLFRIHbUZzuQhPHlJZAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:41
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_13" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Shakin' Stevens - Merry Christmas Everyone (Official Lyric Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.A6rnLFRIHbUZzuQhPHlJZAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Shakin' Stevens - Merry Christmas Everyone (Official Lyric Video)">
+    <strong>Shakin' Stevens - Merry Christmas Everyone (Official Lyric Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">426 χιλ. προβολές</span>
+      <span class="meta_pd_content">1 εβδομάδα πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">ShakinStevensVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMB.PX0s4yV96WDV9g_1640529763&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMA.PX0s4yV96WDV9g_1640529763&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,6.540,13.146,20.153&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:41&quot;,&quot;md5&quot;:&quot;74af1bae5a7f56fcf08783d941c5a035&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=F6D560E97D25E32C7D3DF6D560E97D25E32C7D3D&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=_WxUaTLtnEI&quot;,&quot;thid&quot;:&quot;OVP.A6rnLFRIHbUZzuQhPHlJZAHgFo&quot;,&quot;mid&quot;:&quot;F6D560E97D25E32C7D3DF6D560E97D25E32C7D3D&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Shakin' Stevens - Merry Christmas Everyone (Official Lyric Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=_WxUaTLtnEI&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<span class="carouselChevron carouselChevLeftSvg "></span>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <img height="100" width="150" src="https://tse1.mm.bing.net/th?q=Christmas+Songs+List&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247" alt="Christmas Songs List" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Songs List</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <img height="100" width="150" src="https://tse1.mm.bing.net/th?q=Top+100+Christmas+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247" alt="Top 100 Christmas Songs" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Top 100 Christmas Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <img height="100" width="150" src="https://tse4.mm.bing.net/th?q=Traditional+Christmas+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247" alt="Traditional Christmas Songs" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Traditional Christmas Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <img height="100" width="150" src="https://tse1.mm.bing.net/th?q=Christmas+Songs+2019&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247" alt="Christmas Songs 2019" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Songs 2019</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <img height="100" width="150" src="https://tse1.mm.bing.net/th?q=Merry+Christmas+Song&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247" alt="Merry Christmas Song" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Merry Christmas Song</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <img height="100" width="150" src="https://tse3.mm.bing.net/th?q=Christmas+Songs+Mix&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247" alt="Christmas Songs Mix" role="presentation">
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Songs Mix</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Popular Christmas Songs" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=Popular+Christmas+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Popular Christmas Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Songs Lyrics" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Christmas+Songs+Lyrics&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Songs Lyrics</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Songs for Children" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=Christmas+Songs+for+Children&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Songs for Children</strong>
+ </div>
+</div>
+<span class="carouselChevron carouselChevRightSvg "></span>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=GSmwJeEO3GA">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="CG5 - Christmas Dreams (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.kRwRsxyf1SZo0weUMTyIOwEsCW&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:45
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_15" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="CG5 - Christmas Dreams (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.kRwRsxyf1SZo0weUMTyIOwEsCW&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="CG5 - Christmas Dreams (Official Music Video)">
+    <strong>CG5 - Christmas Dreams (Official Music Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">511 χιλ. προβολές</span>
+      <span class="meta_pd_content">4 εβδομάδες πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">CG5</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMB.OQ8NiJ_i91d_bg_1639975803&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMA.OQ8NiJ_i91d_bg_1639975803&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,6.173,16.099,24.107&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:45&quot;,&quot;md5&quot;:&quot;0928982c552b6a4ca593e42671606029&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=6E7F57F7E29F880D0F396E7F57F7E29F880D0F39&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=GSmwJeEO3GA&quot;,&quot;thid&quot;:&quot;OVP.kRwRsxyf1SZo0weUMTyIOwEsCW&quot;,&quot;mid&quot;:&quot;6E7F57F7E29F880D0F396E7F57F7E29F880D0F39&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;CG5 - Christmas Dreams (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=GSmwJeEO3GA&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=GqUp5K_sHd0">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Dan + Shay - Officially Christmas (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?id=OVP.aEHsai-3wen0jKtI_VcNAAEsCA&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:28
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_17" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Dan + Shay - Officially Christmas (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?id=OVP.aEHsai-3wen0jKtI_VcNAAEsCA&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Dan + Shay - Officially Christmas (Official Music Video)">
+    <strong>Dan + Shay - Officially Christmas (Official Music Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">610 χιλ. προβολές</span>
+      <span class="meta_pd_content">4 εβδομάδες πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Dan And Shay</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMB.i1m8_otOwA2zGw_1640426305&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMA.i1m8_otOwA2zGw_1640426305&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,8.482,15.322,22.079&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:28&quot;,&quot;md5&quot;:&quot;3a910cfc17df7a43076e10e0b5b1bd2e&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=1BB30DC04E8BFEBC598B1BB30DC04E8BFEBC598B&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=GqUp5K_sHd0&quot;,&quot;thid&quot;:&quot;OVP.aEHsai-3wen0jKtI_VcNAAEsCA&quot;,&quot;mid&quot;:&quot;1BB30DC04E8BFEBC598B1BB30DC04E8BFEBC598B&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Dan + Shay - Officially Christmas (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=GqUp5K_sHd0&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=Mk6ZzzWWJ1A">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Michael Bublé - Let It Snow! [10th Anniversary] (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.XLoWUQNiax5LJTGrFMAKRQEsDg&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      2:53
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_19" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Michael Bublé - Let It Snow! [10th Anniversary] (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.XLoWUQNiax5LJTGrFMAKRQEsDg&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Michael Bublé - Let It Snow! [10th Anniversary] (Official Music Video)">
+    <strong>Michael Bublé - Let It Snow! [10th Anniversary] (Official Music Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">4.3 εκατ. προβολές</span>
+      <span class="meta_pd_content">2 μήνες πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Michael Bublé</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMB.h-PBnr8M7SnJGw_1637761038&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMA.h-PBnr8M7SnJGw_1637761038&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,6.902,12.968,19.183&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;02:53&quot;,&quot;md5&quot;:&quot;112bc2e5958b9eeb666cc888cbb2907d&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=1BC929ED0CBF9EC1E3871BC929ED0CBF9EC1E387&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=Mk6ZzzWWJ1A&quot;,&quot;thid&quot;:&quot;OVP.XLoWUQNiax5LJTGrFMAKRQEsDg&quot;,&quot;mid&quot;:&quot;1BC929ED0CBF9EC1E3871BC929ED0CBF9EC1E387&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Michael Bublé - Let It Snow! [10th Anniversary] (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=Mk6ZzzWWJ1A&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=H2LnXIHCfT0">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Ed Sheeran &amp; Elton John - Merry Christmas [Official Behind The Scenes Video]" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.41t5kaaMR5_IjPdIEwsmnwHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:32
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_21" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Ed Sheeran &amp; Elton John - Merry Christmas [Official Behind The Scenes Video]" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.41t5kaaMR5_IjPdIEwsmnwHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Ed Sheeran &amp; Elton John - Merry Christmas [Official Behind The Scenes Video]">
+    <span title="Ed Sheeran &amp; Elton John - Merry Christmas [Official Behind The Scenes Video]"><strong>Ed Sheeran &amp; Elton John - Merry Christmas [Official Behind The Scene</strong>…</span>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">2 εκατ. προβολές</span>
+      <span class="meta_pd_content">2 εβδομάδες πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Ed Sheeran</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMB.rVvNC8bGUFvkDw_1640407426&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMA.rVvNC8bGUFvkDw_1640407426&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,6.800,14.306,20.626&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:32&quot;,&quot;md5&quot;:&quot;d9eed229bdb4c917862c2205b48a79fb&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=0FE45B50C6C60BCD5BAD0FE45B50C6C60BCD5BAD&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=H2LnXIHCfT0&quot;,&quot;thid&quot;:&quot;OVP.41t5kaaMR5_IjPdIEwsmnwHgFo&quot;,&quot;mid&quot;:&quot;0FE45B50C6C60BCD5BAD0FE45B50C6C60BCD5BAD&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Ed Sheeran &amp; Elton John - Merry Christmas [Official Behind The Scenes Video]&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=H2LnXIHCfT0&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=7VLBdeCYd0U">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Delta Goodrem - White Christmas (Official Video)" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?id=OVP.3ExiS7fjlA6TVPk-82f_AgEsCo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:30
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_23" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Delta Goodrem - White Christmas (Official Video)" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?id=OVP.3ExiS7fjlA6TVPk-82f_AgEsCo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Delta Goodrem - White Christmas (Official Video)">
+    <strong>Delta Goodrem - White Christmas (Official Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">45 χιλ. προβολές</span>
+      <span class="meta_pd_content">1 μήνα πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">DeltaGoodremVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:30&quot;,&quot;md5&quot;:&quot;17f717285f16ce9166e28c315042e87e&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=0F2D588D9C4D522560DA0F2D588D9C4D522560DA&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=7VLBdeCYd0U&quot;,&quot;thid&quot;:&quot;OVP.3ExiS7fjlA6TVPk-82f_AgEsCo&quot;,&quot;mid&quot;:&quot;0F2D588D9C4D522560DA0F2D588D9C4D522560DA&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Delta Goodrem - White Christmas (Official Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=7VLBdeCYd0U&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=N-PyWfVkjZc">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Shakin' Stevens - Merry Christmas Everyone (Official 4K Video)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.epliHZKyz5zbMNR1TWUWiwHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:41
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_25" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Shakin' Stevens - Merry Christmas Everyone (Official 4K Video)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.epliHZKyz5zbMNR1TWUWiwHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Shakin' Stevens - Merry Christmas Everyone (Official 4K Video)">
+    <strong>Shakin' Stevens - Merry Christmas Everyone (Official 4K Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">20 εκατ. προβολές</span>
+      <span class="meta_pd_content">Nov 26, 2020</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">ShakinStevensVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMB.E_8gGxhz7ftxTA_1633912318&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMA.E_8gGxhz7ftxTA_1633912318&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,8.280,14.381,25.141&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:41&quot;,&quot;md5&quot;:&quot;651dbd9acd7330a3731dfb84f8f0ec05&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=4C71FBED73181B20FF134C71FBED73181B20FF13&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=N-PyWfVkjZc&quot;,&quot;thid&quot;:&quot;OVP.epliHZKyz5zbMNR1TWUWiwHgFo&quot;,&quot;mid&quot;:&quot;4C71FBED73181B20FF134C71FBED73181B20FF13&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Shakin' Stevens - Merry Christmas Everyone (Official 4K Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=N-PyWfVkjZc&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<span class="carouselChevron carouselChevLeftSvg "></span>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Music" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=Christmas+Music&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Music</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Is Coming the Goose Is Getting Fat" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Christmas+Is+Coming+the+Goose+Is+Getting+Fat&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <span title="Christmas Is Coming the Goose Is Getting Fat"><strong>Christmas Is Coming the Goos</strong>…</span>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Carols" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Christmas+Carols&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Carols</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Lyrics" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=Christmas+Lyrics&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Lyrics</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Shoes" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=Christmas+Shoes&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Shoes</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Cartoons" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?q=Christmas+Cartoons&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Cartoons</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Carolers" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=Christmas+Carolers&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Carolers</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Movies" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?q=Christmas+Movies&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Movies</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Guitar" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Christmas+Guitar&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Guitar</strong>
+ </div>
+</div>
+<span class="carouselChevron carouselChevRightSvg "></span>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=KzmtBgqap0s">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Relaxing Christmas Music &amp; Fireplace | Piano Music, Christmas Carol, Relaxing Music, Sleep Music" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.ZneYNtIxJn8-AnOMDQBxJAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      10:14:13
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_27" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Relaxing Christmas Music &amp; Fireplace | Piano Music, Christmas Carol, Relaxing Music, Sleep Music" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.ZneYNtIxJn8-AnOMDQBxJAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Relaxing Christmas Music &amp; Fireplace | Piano Music, Christmas Carol, Relaxing Music, Sleep Music">
+    <span title="Relaxing Christmas Music &amp; Fireplace | Piano Music, Christmas Carol, Relaxing Music, Sleep Music"><strong>Relaxing Christmas Music &amp; Fireplace | Piano Music, Christmas Carol, Relaxin</strong>…</span>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">924 προβολές</span>
+      <span class="meta_pd_content">2 εβδομάδες πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">OCB Relax Music</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMB.6bB7Ep2EYP8dIQ_1639962064&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMA.6bB7Ep2EYP8dIQ_1639962064&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,8.759,17.986,26.036&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;10:14:13&quot;,&quot;md5&quot;:&quot;5df661f27b2d8b8d23ea680b63798c5c&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=211DFF60849D127BB0E9211DFF60849D127BB0E9&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=KzmtBgqap0s&quot;,&quot;thid&quot;:&quot;OVP.ZneYNtIxJn8-AnOMDQBxJAHgFo&quot;,&quot;mid&quot;:&quot;211DFF60849D127BB0E9211DFF60849D127BB0E9&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Relaxing Christmas Music &amp; Fireplace | Piano Music, Christmas Carol, Relaxing Music, Sleep Music&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=KzmtBgqap0s&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=BKU3mf3tw3U">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="O Christmas Tree Christmas Carol Instrumental Music with Sing Along Lyrics 2021" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.xwEcC0THwrejvcQgFKmMGgEsCo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      1:54
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_29" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="O Christmas Tree Christmas Carol Instrumental Music with Sing Along Lyrics 2021" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.xwEcC0THwrejvcQgFKmMGgEsCo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="O Christmas Tree Christmas Carol Instrumental Music with Sing Along Lyrics 2021">
+    <span title="O Christmas Tree Christmas Carol Instrumental Music with Sing Along Lyrics 2021"><strong>O Christmas Tree Christmas Carol Instrumental Music with Sing Along L</strong>…</span>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">18 χιλ. προβολές</span>
+      <span class="meta_pd_content">1 μήνα πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Christmas Songs and Carols - Love to Sing</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMB.2ij4tEsrG83rIw_1638836223&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMA.2ij4tEsrG83rIw_1638836223&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,10.611,19.219,25.626&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;01:54&quot;,&quot;md5&quot;:&quot;8a5a46273728f56fd26073b4c7b26e94&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=23EBCD1B2B4BB4F828DA23EBCD1B2B4BB4F828DA&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=BKU3mf3tw3U&quot;,&quot;thid&quot;:&quot;OVP.xwEcC0THwrejvcQgFKmMGgEsCo&quot;,&quot;mid&quot;:&quot;23EBCD1B2B4BB4F828DA23EBCD1B2B4BB4F828DA&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;O Christmas Tree Christmas Carol Instrumental Music with Sing Along Lyrics 2021&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=BKU3mf3tw3U&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=z-1rltfsWXA">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Sarah Connor - The Christmas Song (Amazon Original)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.N5WUht4pWZtf5ykE_gaS0AEsB-&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      4:27
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_31" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Sarah Connor - The Christmas Song (Amazon Original)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.N5WUht4pWZtf5ykE_gaS0AEsB-&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Sarah Connor - The Christmas Song (Amazon Original)">
+    <strong>Sarah Connor - The Christmas Song (Amazon Original)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">402 χιλ. προβολές</span>
+      <span class="meta_pd_content">1 μήνα πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">SarahConnorVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMB.Np_kzkrWYd4XoQ_1639726290&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMA.Np_kzkrWYd4XoQ_1639726290&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,8.480,14.598,22.758&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;04:27&quot;,&quot;md5&quot;:&quot;bb3809b925f06ecaf7f5503260bc807c&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=A117DE61D64ACEE49F36A117DE61D64ACEE49F36&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=z-1rltfsWXA&quot;,&quot;thid&quot;:&quot;OVP.N5WUht4pWZtf5ykE_gaS0AEsB-&quot;,&quot;mid&quot;:&quot;A117DE61D64ACEE49F36A117DE61D64ACEE49F36&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Sarah Connor - The Christmas Song (Amazon Original)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=z-1rltfsWXA&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=wnvzwAPqniU">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Pentatonix - &quot;The Prayer&quot; - OFFICIAL VIDEO" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.8M1MEIaUm63YjPUnmokGxQEsDh&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      4:42
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_33" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Pentatonix - &quot;The Prayer&quot; - OFFICIAL VIDEO" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.8M1MEIaUm63YjPUnmokGxQEsDh&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Pentatonix - &quot;The Prayer&quot; - OFFICIAL VIDEO">
+    <strong>Pentatonix - "The Prayer" - OFFICIAL VIDEO</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">4.9 εκατ. προβολές</span>
+      <span class="meta_pd_content">2 μήνες πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Pentatonix</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMB.uVASaSMDFby2vA_1636985203&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMA.uVASaSMDFby2vA_1636985203&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,8.889,18.524,25.698&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;04:42&quot;,&quot;md5&quot;:&quot;e9f326c89385c6844c1ef23e92ca2f0a&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=BCB6BC150323691250B9BCB6BC150323691250B9&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=wnvzwAPqniU&quot;,&quot;thid&quot;:&quot;OVP.8M1MEIaUm63YjPUnmokGxQEsDh&quot;,&quot;mid&quot;:&quot;BCB6BC150323691250B9BCB6BC150323691250B9&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Pentatonix - \&quot;The Prayer\&quot; - OFFICIAL VIDEO&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=wnvzwAPqniU&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=S697KeoZqbE">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Something Yummy Christmas Song | Kids Songs &amp; Nursery Rhymes | The Mik Maks" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.w2jk90PaKkqYhD8kkeYWAgEsCo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      1:38
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_35" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Something Yummy Christmas Song | Kids Songs &amp; Nursery Rhymes | The Mik Maks" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.w2jk90PaKkqYhD8kkeYWAgEsCo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Something Yummy Christmas Song | Kids Songs &amp; Nursery Rhymes | The Mik Maks">
+    <span title="Something Yummy Christmas Song | Kids Songs &amp; Nursery Rhymes | The Mik Maks"><strong>Something Yummy Christmas Song | Kids Songs &amp; Nursery Rhymes | The </strong>…</span>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">14 εκατ. προβολές</span>
+      <span class="meta_pd_content">1 μήνα πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">The Mik Maks</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMB.R2Xa-qvRvKTKJg_1639453907&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMA.R2Xa-qvRvKTKJg_1639453907&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,9.435,16.759,25.883&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;01:38&quot;,&quot;md5&quot;:&quot;623d02e06f9903cfe1bef1cc28375612&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=26CAA4BCD1ABFADA654726CAA4BCD1ABFADA6547&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=S697KeoZqbE&quot;,&quot;thid&quot;:&quot;OVP.w2jk90PaKkqYhD8kkeYWAgEsCo&quot;,&quot;mid&quot;:&quot;26CAA4BCD1ABFADA654726CAA4BCD1ABFADA6547&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Something Yummy Christmas Song | Kids Songs &amp; Nursery Rhymes | The Mik Maks&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=S697KeoZqbE&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=7SrauwH7ZTo">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Aaron Neville - Please Come Home For Christmas (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.ECrU0ZuxCYYTrtf-LsIZOQEsDh&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      2:51
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_37" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Aaron Neville - Please Come Home For Christmas (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.ECrU0ZuxCYYTrtf-LsIZOQEsDh&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Aaron Neville - Please Come Home For Christmas (Official Music Video)">
+    <strong>Aaron Neville - Please Come Home For Christmas (Official Music Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">150 χιλ. προβολές</span>
+      <span class="meta_pd_content">2 μήνες πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">AaronNevilleVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMB.W3whq_VfRRC1Nw_1635394352&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMA.W3whq_VfRRC1Nw_1635394352&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,7.466,13.805,20.949&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;02:51&quot;,&quot;md5&quot;:&quot;60ba42b5c56b7a476866da2d531e57e2&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=37B510455FF5AB217C5B37B510455FF5AB217C5B&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=7SrauwH7ZTo&quot;,&quot;thid&quot;:&quot;OVP.ECrU0ZuxCYYTrtf-LsIZOQEsDh&quot;,&quot;mid&quot;:&quot;37B510455FF5AB217C5B37B510455FF5AB217C5B&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Aaron Neville - Please Come Home For Christmas (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=7SrauwH7ZTo&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<span class="carouselChevron carouselChevLeftSvg "></span>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Funny Songs" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Funny+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Funny Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Holiday Songs" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Holiday+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Holiday Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Love Songs" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Love+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Love Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Childrens Songs" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Childrens+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Childrens Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Let It Snow Songs" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?q=Let+It+Snow+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Let It Snow Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Santa Claus Songs" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?q=Santa+Claus+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Santa Claus Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Summer Songs" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=Summer+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Summer Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christian Songs" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=Christian+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christian Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="2015 Songs" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=2015+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>2015 Songs</strong>
+ </div>
+</div>
+<span class="carouselChevron carouselChevRightSvg "></span>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=UlCy_ZDK_k0">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Bing Crosby - I'll Be Home For Christmas (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.RZUKLHRrTYi_usc1Oqd2gAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:01
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_39" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Bing Crosby - I'll Be Home For Christmas (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.RZUKLHRrTYi_usc1Oqd2gAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Bing Crosby - I'll Be Home For Christmas (Official Music Video)">
+    <strong>Bing Crosby - I'll Be Home For Christmas (Official Music Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">320 χιλ. προβολές</span>
+      <span class="meta_pd_content">1 μήνα πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">BingCrosbyVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMB.U9wZ-GP7hHb6Bg_1637454378&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMA.U9wZ-GP7hHb6Bg_1637454378&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,8.417,17.292,24.000&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:01&quot;,&quot;md5&quot;:&quot;dd8380d389356c82b25140c493099c1c&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=06FA7684FB63F819DC5306FA7684FB63F819DC53&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=UlCy_ZDK_k0&quot;,&quot;thid&quot;:&quot;OVP.RZUKLHRrTYi_usc1Oqd2gAHgFo&quot;,&quot;mid&quot;:&quot;06FA7684FB63F819DC5306FA7684FB63F819DC53&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Bing Crosby - I'll Be Home For Christmas (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=UlCy_ZDK_k0&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=dfTCObc5BuE">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Top 100 Christmas Songs of All Time 🎄 3 Hour Christmas Music Playlist" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.WvP1XzUXnChgFC1mQisAFAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      2:58:15
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_41" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Top 100 Christmas Songs of All Time 🎄 3 Hour Christmas Music Playlist" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.WvP1XzUXnChgFC1mQisAFAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Top 100 Christmas Songs of All Time 🎄 3 Hour Christmas Music Playlist">
+    <strong>Top 100 Christmas Songs of All Time 🎄 3 Hour Christmas Music Playlist</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">13 εκατ. προβολές</span>
+      <span class="meta_pd_content">Dec 2, 2020</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Timeless Music - Best Christmas Songs</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMB.1QFQH8o05wTXCw_1635284603&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMA.1QFQH8o05wTXCw_1635284603&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,9.733,20.433,28.949&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;2:58:15&quot;,&quot;md5&quot;:&quot;e0383cdf28c87895a77e9f8533146105&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=0BD704E734CA1F5001D50BD704E734CA1F5001D5&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=dfTCObc5BuE&quot;,&quot;thid&quot;:&quot;OVP.WvP1XzUXnChgFC1mQisAFAHgFo&quot;,&quot;mid&quot;:&quot;0BD704E734CA1F5001D50BD704E734CA1F5001D5&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Top 100 Christmas Songs of All Time 🎄 3 Hour Christmas Music Playlist&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=dfTCObc5BuE&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=JRNs1yGfbsU">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Wham! - Last Christmas (Official Karaoke Video)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.sRFu3wmpG1pMxSBsfDl4IAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      4:39
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_43" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Wham! - Last Christmas (Official Karaoke Video)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.sRFu3wmpG1pMxSBsfDl4IAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Wham! - Last Christmas (Official Karaoke Video)">
+    <strong>Wham! - Last Christmas (Official Karaoke Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">10 εκατ. προβολές</span>
+      <span class="meta_pd_content">Dec 2, 2020</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">WhamVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMB.PCHBTTuYhfV_Zw_1634390377&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMA.PCHBTTuYhfV_Zw_1634390377&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,9.800,16.880,25.320&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;04:39&quot;,&quot;md5&quot;:&quot;9e101db17dd09c751535b15df0790446&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=677FF585983B4DC1213C677FF585983B4DC1213C&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=JRNs1yGfbsU&quot;,&quot;thid&quot;:&quot;OVP.sRFu3wmpG1pMxSBsfDl4IAHgFo&quot;,&quot;mid&quot;:&quot;677FF585983B4DC1213C677FF585983B4DC1213C&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Wham! - Last Christmas (Official Karaoke Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=JRNs1yGfbsU&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=mUJi47PqB7c">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Debbie Gibson - Christmas Star (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.RkDyC7VxeLLwCDfoE_rDcgEsDh&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:25
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_45" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Debbie Gibson - Christmas Star (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.RkDyC7VxeLLwCDfoE_rDcgEsDh&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Debbie Gibson - Christmas Star (Official Music Video)">
+    <strong>Debbie Gibson - Christmas Star (Official Music Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">31 χιλ. προβολές</span>
+      <span class="meta_pd_content">1 μήνα πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Debbie Gibson</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMB.e7YwaDFA7YaFtA_1638046249&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMA.e7YwaDFA7YaFtA_1638046249&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,7.454,14.336,22.469&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:25&quot;,&quot;md5&quot;:&quot;a64fdb3944bc275ae86eb5dfe7d31ed6&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=B48586ED40316830B67BB48586ED40316830B67B&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=mUJi47PqB7c&quot;,&quot;thid&quot;:&quot;OVP.RkDyC7VxeLLwCDfoE_rDcgEsDh&quot;,&quot;mid&quot;:&quot;B48586ED40316830B67BB48586ED40316830B67B&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Debbie Gibson - Christmas Star (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=mUJi47PqB7c&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=HPdHkHslFIU">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="SABATON - Christmas Truce (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.LG_CwJbvYyNyH1LnKuERvgEsDh&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      8:39
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_47" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="SABATON - Christmas Truce (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.LG_CwJbvYyNyH1LnKuERvgEsDh&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="SABATON - Christmas Truce (Official Music Video)">
+    <strong>SABATON - Christmas Truce (Official Music Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">5.1 εκατ. προβολές</span>
+      <span class="meta_pd_content">2 μήνες πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Sabaton</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMB.ZN98P_E1KaHtlA_1636413879&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMA.ZN98P_E1KaHtlA_1636413879&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,8.320,17.550,24.030&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;08:39&quot;,&quot;md5&quot;:&quot;47d0be97bac6c66bb27afc58eaede7cc&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=94EDA12935F13F7CDF6494EDA12935F13F7CDF64&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=HPdHkHslFIU&quot;,&quot;thid&quot;:&quot;OVP.LG_CwJbvYyNyH1LnKuERvgEsDh&quot;,&quot;mid&quot;:&quot;94EDA12935F13F7CDF6494EDA12935F13F7CDF64&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;SABATON - Christmas Truce (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=HPdHkHslFIU&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=nlHI7wVw4Kc">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Whitney Houston - One Wish (For Christmas) (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.v3uyJSgaJCEWHBFleljrwgHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      4:15
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_49" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Whitney Houston - One Wish (For Christmas) (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.v3uyJSgaJCEWHBFleljrwgHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Whitney Houston - One Wish (For Christmas) (Official Music Video)">
+    <strong>Whitney Houston - One Wish (For Christmas) (Official Music Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">1.9 εκατ. προβολές</span>
+      <span class="meta_pd_content">Dec 11, 2020</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">whitneyhoustonVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMB.3IQcPAizMBzLAg_1632893150&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMA.3IQcPAizMBzLAg_1632893150&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,6.699,13.434,21.233&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;04:15&quot;,&quot;md5&quot;:&quot;ea6b195d9f832a8334fd388fcd04c083&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=02CB1C30B3083C1C84DC02CB1C30B3083C1C84DC&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=nlHI7wVw4Kc&quot;,&quot;thid&quot;:&quot;OVP.v3uyJSgaJCEWHBFleljrwgHgFo&quot;,&quot;mid&quot;:&quot;02CB1C30B3083C1C84DC02CB1C30B3083C1C84DC&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Whitney Houston - One Wish (For Christmas) (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=nlHI7wVw4Kc&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=vf4ZXBzbAio">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Darlene Love - Christmas (Baby Please Come Home) (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.-ZsqXXEov0FsokjVUYfx9QHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      2:47
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_51" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Darlene Love - Christmas (Baby Please Come Home) (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.-ZsqXXEov0FsokjVUYfx9QHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Darlene Love - Christmas (Baby Please Come Home) (Official Music Video)">
+    <strong>Darlene Love - Christmas (Baby Please Come Home) (Official Music Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">2.2 εκατ. προβολές</span>
+      <span class="meta_pd_content">Nov 25, 2020</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">DarleneLoveVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMB.p52cmbxns-e7hg_1632529987&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMA.p52cmbxns-e7hg_1632529987&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,6.306,14.915,22.189&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;02:47&quot;,&quot;md5&quot;:&quot;de66bd154cc0907d4015917005a16ec4&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=86BBE7B367BC999C9DA786BBE7B367BC999C9DA7&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=vf4ZXBzbAio&quot;,&quot;thid&quot;:&quot;OVP.-ZsqXXEov0FsokjVUYfx9QHgFo&quot;,&quot;mid&quot;:&quot;86BBE7B367BC999C9DA786BBE7B367BC999C9DA7&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Darlene Love - Christmas (Baby Please Come Home) (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=vf4ZXBzbAio&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=FuAHR4lkjCo">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Wham! - Last Christmas (Lyrics)" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.2JWglfAZtEHIYrO4Xs0CEAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      5:04
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_53" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Wham! - Last Christmas (Lyrics)" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.2JWglfAZtEHIYrO4Xs0CEAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Wham! - Last Christmas (Lyrics)">
+    <strong>Wham! - Last Christmas (Lyrics)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">9.8 εκατ. προβολές</span>
+      <span class="meta_pd_content">Dec 7, 2019</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Shadow Music</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMB.JxC27dsPVtGKeg_1635690913&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMA.JxC27dsPVtGKeg_1635690913&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,9.209,16.350,25.003&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;05:04&quot;,&quot;md5&quot;:&quot;d6a4323df55e7baaebf7f55c09feddce&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=7A8AD1560FDBEDB610277A8AD1560FDBEDB61027&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=FuAHR4lkjCo&quot;,&quot;thid&quot;:&quot;OVP.2JWglfAZtEHIYrO4Xs0CEAHgFo&quot;,&quot;mid&quot;:&quot;7A8AD1560FDBEDB610277A8AD1560FDBEDB61027&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Wham! - Last Christmas (Lyrics)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=FuAHR4lkjCo&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=qw2TD91Nytg">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Queen - Thank God It's Christmas (Official Lyric Video)" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.qQPUrx0GGmfCaikiZ0Zp_gHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      4:38
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_55" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Queen - Thank God It's Christmas (Official Lyric Video)" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.qQPUrx0GGmfCaikiZ0Zp_gHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Queen - Thank God It's Christmas (Official Lyric Video)">
+    <strong>Queen - Thank God It's Christmas (Official Lyric Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">7.7 εκατ. προβολές</span>
+      <span class="meta_pd_content">Dec 15, 2019</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Queen Official</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMB.G_NxH09G8LVKig_1635336355&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMA.G_NxH09G8LVKig_1635336355&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,8.309,16.609,25.486&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;04:38&quot;,&quot;md5&quot;:&quot;9a53f4d04000b2775a11e861820b98a0&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=8A4AB5F0464F1F71F31B8A4AB5F0464F1F71F31B&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=qw2TD91Nytg&quot;,&quot;thid&quot;:&quot;OVP.qQPUrx0GGmfCaikiZ0Zp_gHgFo&quot;,&quot;mid&quot;:&quot;8A4AB5F0464F1F71F31B8A4AB5F0464F1F71F31B&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Queen - Thank God It's Christmas (Official Lyric Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=qw2TD91Nytg&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=ytHYzM3EPP8">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Maddie &amp; Tae - This Christmas (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.IcFlXfF3laiJv2iA3HUwWAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:37
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_57" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Maddie &amp; Tae - This Christmas (Official Music Video)" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.IcFlXfF3laiJv2iA3HUwWAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Maddie &amp; Tae - This Christmas (Official Music Video)">
+    <strong>Maddie &amp; Tae - This Christmas (Official Music Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">71 χιλ. προβολές</span>
+      <span class="meta_pd_content">Oct 23, 2020</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">MaddieandTaeVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMB.VAIyJ7QncSp3hQ_1635510427&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMA.VAIyJ7QncSp3hQ_1635510427&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,8.342,16.140,23.432&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:37&quot;,&quot;md5&quot;:&quot;9e02063592069d170c567b91add508cd&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=85772A7127B42732025485772A7127B427320254&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=ytHYzM3EPP8&quot;,&quot;thid&quot;:&quot;OVP.IcFlXfF3laiJv2iA3HUwWAHgFo&quot;,&quot;mid&quot;:&quot;85772A7127B42732025485772A7127B427320254&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Maddie &amp; Tae - This Christmas (Official Music Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=ytHYzM3EPP8&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=g-OF7KGyDis">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="We Wish You a Merry Christmas with Lyrics | Christmas Carol &amp; Song" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.BnwPGhqSUAbn_YOLsiYRAgHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      2:01
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_59" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="We Wish You a Merry Christmas with Lyrics | Christmas Carol &amp; Song" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.BnwPGhqSUAbn_YOLsiYRAgHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="We Wish You a Merry Christmas with Lyrics | Christmas Carol &amp; Song">
+    <strong>We Wish You a Merry Christmas with Lyrics | Christmas Carol &amp; Song</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">116 εκατ. προβολές</span>
+      <span class="meta_pd_content">Dec 7, 2014</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Christmas Songs and Carols - Love to Sing</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse3.mm.bing.net/th?id=OMB.GJXKABam5oj9RQ_1635277465&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMA.GJXKABam5oj9RQ_1635277465&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,9.610,19.274,27.456&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;02:01&quot;,&quot;md5&quot;:&quot;987b88b1c459c9d6800fa706ff9835b5&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=45FD88E6A61600CA951845FD88E6A61600CA9518&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=g-OF7KGyDis&quot;,&quot;thid&quot;:&quot;OVP.BnwPGhqSUAbn_YOLsiYRAgHgFo&quot;,&quot;mid&quot;:&quot;45FD88E6A61600CA951845FD88E6A61600CA9518&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;We Wish You a Merry Christmas with Lyrics | Christmas Carol &amp; Song&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=g-OF7KGyDis&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=t6LckCuIcYE">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Pentatonix - Over The River (Official Video) ft. Lindsey Stirling" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.ZIcBtZiyV5Fchw9FEN8h4gHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:01
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_61" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Pentatonix - Over The River (Official Video) ft. Lindsey Stirling" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?id=OVP.ZIcBtZiyV5Fchw9FEN8h4gHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Pentatonix - Over The River (Official Video) ft. Lindsey Stirling">
+    <strong>Pentatonix - Over The River (Official Video) ft. Lindsey Stirling</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">1.6 εκατ. προβολές</span>
+      <span class="meta_pd_content">3 εβδομάδες πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">PentatonixVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:01&quot;,&quot;md5&quot;:&quot;9aa5c99eaa133ba587bd01833eccaaa2&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=815B47E08C1B5DBC0FED815B47E08C1B5DBC0FED&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=t6LckCuIcYE&quot;,&quot;thid&quot;:&quot;OVP.ZIcBtZiyV5Fchw9FEN8h4gHgFo&quot;,&quot;mid&quot;:&quot;815B47E08C1B5DBC0FED815B47E08C1B5DBC0FED&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Pentatonix - Over The River (Official Video) ft. Lindsey Stirling&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=t6LckCuIcYE&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=3CWJNqyub3o">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Jingle Bells with Lyrics | Christmas Songs HD | Christmas Songs and Carols" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.TqvP6zQ5qQPmF7n8rl9uPQHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      1:46
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_63" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Jingle Bells with Lyrics | Christmas Songs HD | Christmas Songs and Carols" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.TqvP6zQ5qQPmF7n8rl9uPQHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Jingle Bells with Lyrics | Christmas Songs HD | Christmas Songs and Carols">
+    <strong>Jingle Bells with Lyrics | Christmas Songs HD | Christmas Songs and Carols</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">127 εκατ. προβολές</span>
+      <span class="meta_pd_content">Oct 29, 2015</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Christmas Songs and Carols - Love to Sing</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMB.AWSvsrZSY20BeQ_1640440568&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMA.AWSvsrZSY20BeQ_1640440568&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,7.563,13.769,23.377&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;01:46&quot;,&quot;md5&quot;:&quot;0f70ed8a9bd3bfb5ae49a955b2675d9d&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=79016D6352B6B2AF640179016D6352B6B2AF6401&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=3CWJNqyub3o&quot;,&quot;thid&quot;:&quot;OVP.TqvP6zQ5qQPmF7n8rl9uPQHgFo&quot;,&quot;mid&quot;:&quot;79016D6352B6B2AF640179016D6352B6B2AF6401&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Jingle Bells with Lyrics | Christmas Songs HD | Christmas Songs and Carols&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=3CWJNqyub3o&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=wOMhIdBTODM">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Norah Jones - Christmas Calling (Jolly Jones)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.mPnPk97NQHI68-61oBiodgHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:26
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_65" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Norah Jones - Christmas Calling (Jolly Jones)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.mPnPk97NQHI68-61oBiodgHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Norah Jones - Christmas Calling (Jolly Jones)">
+    <strong>Norah Jones - Christmas Calling (Jolly Jones)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">1.6 εκατ. προβολές</span>
+      <span class="meta_pd_content">4 εβδομάδες πριν</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">norahjonesVEVO</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:26&quot;,&quot;md5&quot;:&quot;c406c390a1882da185431a1c26fa3e45&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=6E54C1C6D6FFEFD1B3016E54C1C6D6FFEFD1B301&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=wOMhIdBTODM&quot;,&quot;thid&quot;:&quot;OVP.mPnPk97NQHI68-61oBiodgHgFo&quot;,&quot;mid&quot;:&quot;6E54C1C6D6FFEFD1B3016E54C1C6D6FFEFD1B301&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Norah Jones - Christmas Calling (Jolly Jones)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=wOMhIdBTODM&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=qSkN4EXhBR8">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Fairytale of New York (feat. Kirsty MacColl) [Top of The Pops Dec 1987]" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.KuCHD6Nfsy1UEeD0T57U2gHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      3:49
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_67" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Fairytale of New York (feat. Kirsty MacColl) [Top of The Pops Dec 1987]" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?id=OVP.KuCHD6Nfsy1UEeD0T57U2gHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Fairytale of New York (feat. Kirsty MacColl) [Top of The Pops Dec 1987]">
+    <strong>Fairytale of New York (feat. Kirsty MacColl) [Top of The Pops Dec 1987]</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">1.9 εκατ. προβολές</span>
+      <span class="meta_pd_content">Dec 9, 2020</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">ThePoguesOfficial</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMB.ZwX-MYH0RBv4Dg_1635556561&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMA.ZwX-MYH0RBv4Dg_1635556561&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,9.384,16.864,25.304&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;03:49&quot;,&quot;md5&quot;:&quot;1c7cee70de5946d74f9e6df7a2966369&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=0EF81B44F48131FE05670EF81B44F48131FE0567&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=qSkN4EXhBR8&quot;,&quot;thid&quot;:&quot;OVP.KuCHD6Nfsy1UEeD0T57U2gHgFo&quot;,&quot;mid&quot;:&quot;0EF81B44F48131FE05670EF81B44F48131FE0567&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Fairytale of New York (feat. Kirsty MacColl) [Top of The Pops Dec 1987]&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=qSkN4EXhBR8&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=1qYz7rfgLWE">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Brenda Lee - Rockin' Around The Christmas Tree (Official Lyric Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.0z3L2hAmQrcmAm62cvRCyQHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      2:08
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_69" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="Brenda Lee - Rockin' Around The Christmas Tree (Official Lyric Video)" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.0z3L2hAmQrcmAm62cvRCyQHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="Brenda Lee - Rockin' Around The Christmas Tree (Official Lyric Video)">
+    <strong>Brenda Lee - Rockin' Around The Christmas Tree (Official Lyric Video)</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">38 εκατ. προβολές</span>
+      <span class="meta_pd_content">Dec 22, 2017</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Christmas Music</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse4.mm.bing.net/th?id=OMB.SYvQ3pjITyp6wA_1635390038&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMA.SYvQ3pjITyp6wA_1635390038&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,7.440,15.144,23.872&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;02:08&quot;,&quot;md5&quot;:&quot;674ed78fe58149ccdbe69bae4f1275be&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=C07A2A4FC898DED08B49C07A2A4FC898DED08B49&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=1qYz7rfgLWE&quot;,&quot;thid&quot;:&quot;OVP.0z3L2hAmQrcmAm62cvRCyQHgFo&quot;,&quot;mid&quot;:&quot;C07A2A4FC898DED08B49C07A2A4FC898DED08B49&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;Brenda Lee - Rockin' Around The Christmas Tree (Official Lyric Video)&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=1qYz7rfgLWE&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<div class="mc_vtvc_con_rc" ourl="https://www.youtube.com/watch?v=zQLdqnICsS8">
+ <div class="mc_vtvc_th b_canvas">
+  <div class="cico" style="width:302px;height:169px;">
+   <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="O Christmas Tree with Lyrics | Christmas Songs &amp; Carol" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.K0-VckrLmzWE-meqpM27DAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+  </div>
+  <div class="mc_vtvc_ban_lo">
+   <div class="vtbc_rc">
+    <div class="mc_bc_rc_w b_smText">
+     <div class="mc_bc_rc items">
+      2:03
+     </div>
+     <div class="mc_bc_rc pivot bpi_video_71" data-tag="component.Badge.Pivot">
+      <span title=""><span class="mv_vtvc_play cipg " width="16" height="16"></span></span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="mc_vtvc_meta_w">
+  <div class="mc_vtvc_meta_bg_w">
+   <div class="cico" style="width:302px;height:169px;">
+    <div class="rms_iac" style="height:169px;line-height:169px;width:302px;" data-height="169" data-width="302" data-alt="O Christmas Tree with Lyrics | Christmas Songs &amp; Carol" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?id=OVP.K0-VckrLmzWE-meqpM27DAHgFo&amp;w=302&amp;h=169&amp;c=7&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=2.1"></div>
+   </div>
+  </div>
+  <div class="mc_vtvc_meta">
+   <div class="mc_vtvc_title b_promtxt" title="O Christmas Tree with Lyrics | Christmas Songs &amp; Carol">
+    <strong>O Christmas Tree with Lyrics | Christmas Songs &amp; Carol</strong>
+   </div>
+   <div class="mc_vtvc_meta_block_area">
+    <div class="mc_vtvc_meta_block">
+     <div class="mc_vtvc_meta_row">
+      <span class="meta_vc_content">6.2 εκατ. προβολές</span>
+      <span class="meta_pd_content">Oct 8, 2015</span>
+     </div>
+     <div class="mc_vtvc_meta_row">
+      <span>YouTube</span>
+      <span class="mc_vtvc_meta_row_channel">Christmas Songs and Carols - Love to Sing</span>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+ <div class="vrhdata" ht="0" vrhm="{&quot;cid&quot;:&quot;vrhInlineContainer&quot;,&quot;smturl&quot;:&quot;https://tse2.mm.bing.net/th?id=OMB.xXo3MqHHH9Up9w_1635243095&amp;pid=2.1&quot;,&quot;mmsturl&quot;:&quot;https://tse1.mm.bing.net/th?id=OMA.xXo3MqHHH9Up9w_1635243095&amp;w=50&amp;h=50&amp;pid=2.1&quot;,&quot;cc&quot;:4,&quot;ct&quot;:&quot;0.000,7.407,18.094,28.305&quot;,&quot;bci&quot;:0,&quot;du&quot;:&quot;02:03&quot;,&quot;md5&quot;:&quot;baa30f5dfd79450443b50fc9ac6a1eb2&quot;,&quot;purl&quot;:&quot;/videos/search?q=christmas+songs&amp;&amp;view=detail&amp;mid=F729D51FC7A132377AC5F729D51FC7A132377AC5&amp;&quot;,&quot;murl&quot;:&quot;https://www.youtube.com/watch?v=zQLdqnICsS8&quot;,&quot;thid&quot;:&quot;OVP.K0-VckrLmzWE-meqpM27DAHgFo&quot;,&quot;mid&quot;:&quot;F729D51FC7A132377AC5F729D51FC7A132377AC5&quot;,&quot;bv&quot;:8,&quot;vt&quot;:&quot;O Christmas Tree with Lyrics | Christmas Songs &amp; Carol&quot;,&quot;IsAdultThumb&quot;:false,&quot;IsSaveable&quot;:true,&quot;EnableLoopPlay&quot;:false,&quot;pgurl&quot;:&quot;https://www.youtube.com/watch?v=zQLdqnICsS8&quot;,&quot;q&quot;:&quot;christmas songs&quot;}"></div>
+</div>
+<span class="carouselChevron carouselChevLeftSvg "></span>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Old Christmas Songs" data-role="presentation" data-class="rms_img" data-src="https://tse2.mm.bing.net/th?q=Old+Christmas+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Old Christmas Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Top 100 Christmas Songs" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Top+100+Christmas+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Top 100 Christmas Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Songs List" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Christmas+Songs+List&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Songs List</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Songs 2019" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Christmas+Songs+2019&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Songs 2019</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Traditional Christmas Songs" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=Traditional+Christmas+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Traditional Christmas Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Songs Mix" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=Christmas+Songs+Mix&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Songs Mix</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Songs for Children" data-role="presentation" data-class="rms_img" data-src="https://tse3.mm.bing.net/th?q=Christmas+Songs+for+Children&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Songs for Children</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Popular Christmas Songs" data-role="presentation" data-class="rms_img" data-src="https://tse4.mm.bing.net/th?q=Popular+Christmas+Songs&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Popular Christmas Songs</strong>
+ </div>
+</div>
+<div class=" cardImage">
+ <div class="cico" style="width:150px;height:100px;">
+  <div class="rms_iac" style="height:100px;line-height:100px;width:150px;" data-height="100" data-width="150" data-alt="Christmas Songs Lyrics" data-role="presentation" data-class="rms_img" data-src="https://tse1.mm.bing.net/th?q=Christmas+Songs+Lyrics&amp;w=150&amp;h=100&amp;c=1&amp;rs=1&amp;qlt=90&amp;o=5&amp;pid=InlineBlock&amp;mkt=en-WW&amp;cc=GR&amp;setlang=el&amp;adlt=moderate&amp;t=1&amp;mw=247"></div>
+ </div>
+</div>
+<div class="cardInfo">
+ <div class="tit">
+  <strong>Christmas Songs Lyrics</strong>
+ </div>
+</div>
+<span class="carouselChevron carouselChevRightSvg "></span>
+
+<span id="stp_icon">
+ <div class="rms_iac" style="height:28px;line-height:28px;width:28px;" data-width="28" data-height="28" data-role="presentation" data-aria-hidden="true" data-class="rms_img" data-src="/rp/9nMU7ZOtivuFWvr-kj6YXbsYOoo.svg"></div></span><span id="stp_label_link"></span>
+Αναπαραγωγή όλων
+Προστέθηκε στα αποθηκευμένα σας
+Είσοδος
+Ίσως αργότερα
+<img role="presentation" aria-hidden="true" class="rms_img" src="/rp/ytiieusXgM2K8bLkEDP-AS1ePds.png">Σχόλια
+Προστασία προσωπικών δεδομένων και cookies
+Νομικές ανακοινώσεις
+Διαφήμιση
+Βοήθεια
+Σχόλια
